@@ -1,0 +1,1073 @@
+year,sos_rank,team,sos
+2003,1,Oklahoma,34.9
+2003,2,Kansas St.,34.8
+2003,3,Georgia,33.8
+2003,4,Florida,33.7
+2003,5,Florida St.,33.7
+2003,6,LSU,32.7
+2003,7,N.C. State,32.5
+2003,8,Texas Tech,32.2
+2003,9,Ohio St.,31.9
+2003,10,Iowa,31.8
+2003,11,Nebraska,31.5
+2003,12,Michigan St.,31.2
+2003,13,Auburn,31.2
+2003,14,Texas,31.1
+2003,15,Michigan,30.7
+2003,16,Wisconsin,30.5
+2003,17,Alabama,30.4
+2003,18,Miami (FL),30.4
+2003,19,Virginia,30.4
+2003,20,Maryland,30.3
+2003,21,Clemson,30.2
+2003,22,Mississippi,30.1
+2003,23,Virginia Tech,30
+2003,24,Purdue,30
+2003,25,Arkansas,29.9
+2003,26,Georgia Tech,29.8
+2003,27,Oklahoma St.,29.7
+2003,28,Oregon St.,29.7
+2003,29,Iowa St.,29.7
+2003,30,South Carolina,29.6
+2003,31,Boston Coll.,29.3
+2003,32,Texas A&M,29.3
+2003,33,Pittsburgh,29.1
+2003,34,Missouri,29
+2003,35,Wake Forest,28.9
+2003,36,Notre Dame,28.9
+2003,37,Syracuse,28.8
+2003,38,Duke,28.7
+2003,39,Mississippi St.,28.6
+2003,40,Baylor,28.4
+2003,41,Colorado,28.3
+2003,42,Minnesota,28.1
+2003,43,BYU,28.1
+2003,44,Temple,28
+2003,45,Arizona,28
+2003,46,Penn St.,28
+2003,47,Washington St.,27.9
+2003,48,Tennessee,27.8
+2003,49,Rutgers,27.7
+2003,50,Vanderbilt,27.5
+2003,51,Washington,27.4
+2003,52,West Virginia,27.3
+2003,53,California,27.2
+2003,54,Colorado St.,27.1
+2003,55,Northwestern,27.1
+2003,56,Oregon,27
+2003,57,Illinois,27
+2003,58,UCLA,26.9
+2003,59,Stanford,26.8
+2003,60,Bowling Green,26.7
+2003,61,North Carolina,26
+2003,62,USC,25.9
+2003,63,Air Force,25.7
+2003,64,San Diego St.,25.6
+2003,65,Utah,25.5
+2003,66,Wyoming,25.3
+2003,67,New Mexico,25.3
+2003,68,Kentucky,25
+2003,69,UNLV,25
+2003,70,Arizona St.,24.7
+2003,71,Indiana,24.5
+2003,72,Kansas,24.4
+2003,73,Nevada,24.3
+2003,74,Miami (OH),24
+2003,75,Connecticut,24
+2003,76,Hawaii,23.5
+2003,77,Fresno St.,22.9
+2003,78,Louisiana Tech,22.5
+2003,79,Marshall,22.4
+2003,80,Ball St.,22.3
+2003,81,Boise St.,22.1
+2003,82,Texas-El Paso,22
+2003,83,Cincinnati,22
+2003,84,Tulsa,21.8
+2003,85,Toledo,21.7
+2003,86,Army,21.5
+2003,87,SMU,21.3
+2003,88,Rice,21.2
+2003,89,San Jose St.,21.1
+2003,90,Buffalo,20.7
+2003,91,Ohio,20.6
+2003,92,Southern Miss,20.6
+2003,93,UAB,20.3
+2003,94,W. Michigan,20.2
+2003,95,Tulane,20.2
+2003,96,South Florida,20.1
+2003,97,East Carolina,20.1
+2003,98,TCU,20
+2003,99,UCF,19.9
+2003,100,Kent St.,19.9
+2003,101,Louisville,19.6
+2003,102,Memphis,19.3
+2003,103,Houston,19.2
+2003,104,Cent. Michigan,19.1
+2003,105,Akron,19.1
+2003,106,Northern Illinois,19.1
+2003,107,Troy,19
+2003,108,Navy,18.7
+2003,109,LA Lafayette,16.9
+2003,110,East. Michigan,16.6
+2003,111,New Mexico St.,16
+2003,112,Arkansas St.,15.8
+2003,113,LA Monroe,15.6
+2003,114,North Texas,15
+2003,115,Utah St.,14.5
+2003,116,Middle Tenn. St.,14.3
+2003,117,Idaho,13.4
+2004,1,Texas A&M,37.5
+2004,2,Miami (FL),36
+2004,3,Virginia Tech,35.7
+2004,4,Oklahoma St.,35.3
+2004,5,Texas,35.3
+2004,6,Virginia,35
+2004,7,North Carolina,34.9
+2004,8,Texas Tech,34.4
+2004,9,Oregon St.,33.3
+2004,10,UCLA,33.1
+2004,11,Colorado,33.1
+2004,12,USC,32.9
+2004,13,Georgia Tech,32.9
+2004,14,Baylor,32.8
+2004,15,Oklahoma,32.7
+2004,16,Stanford,32.6
+2004,17,Arizona St.,31.9
+2004,18,Kansas,31.8
+2004,19,Arizona,31.8
+2004,20,Duke,31.2
+2004,21,Oregon,30.5
+2004,22,Notre Dame,30.4
+2004,23,Florida St.,30.4
+2004,24,Wake Forest,30.3
+2004,25,California,30.2
+2004,26,Kansas St.,30
+2004,27,Georgia,29.8
+2004,28,Maryland,29.6
+2004,29,Nebraska,29.2
+2004,30,Washington,29.1
+2004,31,N.C. State,28.9
+2004,32,Ohio St.,28.9
+2004,33,Washington St.,28.8
+2004,34,Clemson,28.4
+2004,35,Wisconsin,28.2
+2004,36,Syracuse,28.2
+2004,37,BYU,28.1
+2004,38,Michigan,28
+2004,39,Iowa,27.8
+2004,40,Iowa St.,27.7
+2004,41,Missouri,27.6
+2004,42,Purdue,27.5
+2004,43,Florida,27.5
+2004,44,Temple,27.4
+2004,45,Tennessee,27.3
+2004,46,LSU,26.9
+2004,47,New Mexico,26.8
+2004,48,Boston Coll.,26.7
+2004,49,West Virginia,26.6
+2004,50,Northwestern,26.5
+2004,51,Alabama,26.4
+2004,52,Arkansas,26.4
+2004,53,Michigan St.,26.4
+2004,54,Minnesota,26.2
+2004,55,Auburn,26.1
+2004,56,Louisville,26.1
+2004,57,Utah,25.9
+2004,58,Pittsburgh,25.7
+2004,59,Wyoming,25.7
+2004,60,Louisiana Tech,25.3
+2004,61,San Diego St.,25.3
+2004,62,Penn St.,25.2
+2004,63,South Carolina,25.1
+2004,64,Mississippi,24.8
+2004,65,Colorado St.,24.6
+2004,66,Cincinnati,24.5
+2004,67,Indiana,24.5
+2004,68,Illinois,24.2
+2004,69,Rutgers,23.7
+2004,70,Vanderbilt,23.4
+2004,71,Southern Miss,23.1
+2004,72,San Jose St.,23.1
+2004,73,UNLV,22.9
+2004,74,Connecticut,22.8
+2004,75,Mississippi St.,22.7
+2004,76,Toledo,22.3
+2004,77,Kentucky,22.3
+2004,78,Fresno St.,22.2
+2004,79,Memphis,22
+2004,80,Houston,21.9
+2004,81,Rice,21.6
+2004,82,Hawaii,21.6
+2004,83,Texas-El Paso,21.6
+2004,84,Air Force,21.5
+2004,85,Tulane,21.3
+2004,86,Boise St.,21.3
+2004,87,Miami (OH),20.8
+2004,88,South Florida,20.7
+2004,89,East Carolina,20.4
+2004,90,Bowling Green,20.2
+2004,91,TCU,20.1
+2004,92,Army,19.8
+2004,93,UAB,19.8
+2004,94,SMU,19.7
+2004,95,Tulsa,19.5
+2004,96,Nevada,18.4
+2004,97,New Mexico St.,18.3
+2004,98,Troy,18.2
+2004,99,Marshall,17.9
+2004,100,Navy,17.4
+2004,101,Utah St.,16.9
+2004,102,W. Michigan,16.9
+2004,103,Idaho,16.9
+2004,104,Arkansas St.,16.3
+2004,105,Northern Illinois,16.2
+2004,106,Ohio,16
+2004,107,Akron,15.9
+2004,108,Middle Tenn. St.,15.9
+2004,109,North Texas,15.8
+2004,110,LA Lafayette,15.7
+2004,111,UCF,14.4
+2004,112,LA Monroe,14.2
+2004,113,Buffalo,12.9
+2004,114,East. Michigan,12.4
+2004,115,Kent St.,12.3
+2004,116,Ball St.,11.1
+2004,117,Cent. Michigan,9.9
+2005,1,Michigan,39.6
+2005,2,Ohio St.,38.2
+2005,3,Minnesota,37
+2005,4,Iowa,36.8
+2005,5,Northwestern,36.4
+2005,6,Penn St.,35.8
+2005,7,Michigan St.,35.3
+2005,8,Stanford,34.3
+2005,9,Wisconsin,34.2
+2005,10,California,33.9
+2005,11,Georgia Tech,33.1
+2005,12,Illinois,33.1
+2005,13,UCLA,33.1
+2005,14,USC,32.9
+2005,15,Purdue,32.8
+2005,16,Texas A&M,32.6
+2005,17,Indiana,32.4
+2005,18,Washington St.,32.2
+2005,19,Florida St.,31.9
+2005,20,Oregon,31.7
+2005,21,Georgia,31.6
+2005,22,Oregon St.,31.6
+2005,23,Arizona,31.5
+2005,24,Colorado,31.5
+2005,25,Arizona St.,31.5
+2005,26,Kansas,31.4
+2005,27,Auburn,31.3
+2005,28,Oklahoma,31.1
+2005,29,Notre Dame,31.1
+2005,30,LSU,30.8
+2005,31,South Carolina,30.8
+2005,32,Virginia Tech,30.6
+2005,33,Washington,30.6
+2005,34,Texas Tech,30.5
+2005,35,Texas,30.4
+2005,36,Florida,30.3
+2005,37,Nebraska,29.8
+2005,38,Miami (FL),29.7
+2005,39,Duke,29.7
+2005,40,Virginia,29.7
+2005,41,Maryland,29.6
+2005,42,Oklahoma St.,29.5
+2005,43,Clemson,29.4
+2005,44,Baylor,29.4
+2005,45,Arkansas,29.4
+2005,46,Boston Coll.,29.3
+2005,47,Wake Forest,29.1
+2005,48,North Carolina,28.9
+2005,49,Alabama,28.8
+2005,50,Pittsburgh,28.3
+2005,51,Iowa St.,28.3
+2005,52,South Florida,28.2
+2005,53,West Virginia,27.8
+2005,54,N.C. State,27.5
+2005,55,Kansas St.,27.4
+2005,56,Tennessee,27.3
+2005,57,Connecticut,27.2
+2005,58,Missouri,27.2
+2005,59,Cincinnati,26.7
+2005,60,Syracuse,26.7
+2005,61,Temple,26.6
+2005,62,Vanderbilt,26.4
+2005,63,Fresno St.,26.2
+2005,64,Kentucky,26
+2005,65,Louisville,24.7
+2005,66,Rutgers,24.7
+2005,67,Mississippi,24.2
+2005,68,Louisiana Tech,22.6
+2005,69,Hawaii,22.5
+2005,70,Mississippi St.,22.4
+2005,71,Boise St.,22.2
+2005,72,BYU,22.1
+2005,73,Army,22
+2005,74,San Diego St.,22
+2005,75,Memphis,21.8
+2005,76,Air Force,21.7
+2005,77,Cent. Michigan,21.7
+2005,78,Ball St.,21.6
+2005,79,Northern Illinois,21.5
+2005,80,Southern Miss,21.4
+2005,81,East Carolina,21.2
+2005,82,Colorado St.,21
+2005,83,UCF,21
+2005,84,Tulsa,20.9
+2005,85,SMU,20.9
+2005,86,TCU,20.7
+2005,87,UAB,20.6
+2005,88,Marshall,20.6
+2005,89,Utah,20.6
+2005,90,Wyoming,20.6
+2005,91,New Mexico,20.5
+2005,92,Navy,20.3
+2005,93,Nevada,20.3
+2005,94,UNLV,20.2
+2005,95,Tulane,20.1
+2005,96,Toledo,20
+2005,97,Rice,20
+2005,98,Houston,19.9
+2005,99,Texas-El Paso,19.4
+2005,100,W. Michigan,19.3
+2005,101,Akron,18.4
+2005,102,Bowling Green,17.9
+2005,103,Idaho,17.7
+2005,104,Ohio,17.7
+2005,105,Utah St.,16.9
+2005,106,East. Michigan,16.8
+2005,107,New Mexico St.,16.5
+2005,108,Miami (OH),15.8
+2005,109,Kent St.,15.6
+2005,110,Buffalo,14.8
+2005,111,San Jose St.,14.7
+2005,112,Middle Tenn. St.,10
+2005,113,North Texas,8.6
+2005,114,LA Lafayette,8.5
+2005,115,Florida Atlantic,8.5
+2005,116,LA Monroe,8.2
+2005,117,Arkansas St.,7.9
+2005,118,Troy,7.9
+2005,119,Florida Intl.,7.2
+2006,1,UCLA,36.2
+2006,2,Stanford,35.3
+2006,3,USC,35.2
+2006,4,Oregon,34.8
+2006,5,California,34.8
+2006,6,Oregon St.,34.6
+2006,7,Arizona,34.5
+2006,8,Arizona St.,34.3
+2006,9,Michigan,33.5
+2006,10,Rutgers,33.3
+2006,11,Arkansas,33.1
+2006,12,Washington St.,32.2
+2006,13,Washington,32.2
+2006,14,Cincinnati,32.1
+2006,15,Florida,32.1
+2006,16,South Florida,32
+2006,17,West Virginia,32
+2006,18,Tennessee,31.8
+2006,19,South Carolina,31.5
+2006,20,LSU,31
+2006,21,Nebraska,30.6
+2006,22,Minnesota,30.3
+2006,23,Notre Dame,30.3
+2006,24,Texas A&M,30.1
+2006,25,Texas,30.1
+2006,26,Georgia,30
+2006,27,Ohio St.,30
+2006,28,Oklahoma St.,29.9
+2006,29,Pittsburgh,29.8
+2006,30,Louisville,29.8
+2006,31,Connecticut,29.7
+2006,32,Oklahoma,29.4
+2006,33,Penn St.,29.3
+2006,34,Kentucky,29.3
+2006,35,Syracuse,29
+2006,36,Indiana,29
+2006,37,Mississippi St.,29
+2006,38,Mississippi,28.7
+2006,39,Iowa,28.7
+2006,40,Vanderbilt,28.6
+2006,41,Baylor,28.6
+2006,42,Wake Forest,28.4
+2006,43,Texas Tech,28.2
+2006,44,Michigan St.,28
+2006,45,Purdue,28
+2006,46,Auburn,27.9
+2006,47,Illinois,27.9
+2006,48,Northwestern,27.8
+2006,49,Missouri,27.6
+2006,50,Georgia Tech,27.4
+2006,51,Alabama,27
+2006,52,Clemson,27
+2006,53,Virginia Tech,26.8
+2006,54,Maryland,26.7
+2006,55,Boston Coll.,26.5
+2006,56,Kansas St.,26.4
+2006,57,Miami (FL),26.3
+2006,58,Iowa St.,26.2
+2006,59,Wisconsin,26.1
+2006,60,Colorado,25.8
+2006,61,Florida St.,25.8
+2006,62,Utah,25.6
+2006,63,Kansas,25.5
+2006,64,N.C. State,25.4
+2006,65,Duke,25
+2006,66,Virginia,24.7
+2006,67,BYU,24.4
+2006,68,North Carolina,24.2
+2006,69,Colorado St.,24.1
+2006,70,Hawaii,23.9
+2006,71,Air Force,23.8
+2006,72,Wyoming,23.6
+2006,73,Boise St.,23.4
+2006,74,Army,23.3
+2006,75,UNLV,23.2
+2006,76,New Mexico,23.2
+2006,77,Southern Miss,23.1
+2006,78,East Carolina,22.4
+2006,79,Temple,22.3
+2006,80,Nevada,22.1
+2006,81,Tulsa,21.8
+2006,82,San Jose St.,21.5
+2006,83,Rice,21.4
+2006,84,San Diego St.,21.3
+2006,85,Houston,21.3
+2006,86,TCU,21.2
+2006,87,W. Michigan,20.9
+2006,88,SMU,20.9
+2006,89,Middle Tenn. St.,20.8
+2006,90,Ball St.,20.6
+2006,91,Northern Illinois,20.4
+2006,92,Cent. Michigan,20.2
+2006,93,Navy,20.2
+2006,94,Tulane,20.2
+2006,95,Buffalo,20.1
+2006,96,Idaho,20.1
+2006,97,Marshall,19.9
+2006,98,Utah St.,19.8
+2006,99,Memphis,19.6
+2006,100,UAB,19.5
+2006,101,East. Michigan,19.5
+2006,102,UCF,19.4
+2006,103,Ohio,18.8
+2006,104,Fresno St.,18.5
+2006,105,Texas-El Paso,18.4
+2006,106,LA Monroe,18.2
+2006,107,Miami (OH),17.8
+2006,108,Toledo,17.2
+2006,109,Louisiana Tech,17.2
+2006,110,Arkansas St.,16.3
+2006,111,Akron,16
+2006,112,New Mexico St.,15.8
+2006,113,Kent St.,15.6
+2006,114,Florida Intl.,15.1
+2006,115,Troy,14.9
+2006,116,Bowling Green,14.5
+2006,117,Florida Atlantic,13.8
+2006,118,North Texas,13.3
+2006,119,LA Lafayette,13.3
+2007,1,Missouri,34.3
+2007,2,Boston Coll.,33.8
+2007,3,South Carolina,33.3
+2007,4,Pittsburgh,32.9
+2007,5,Florida St.,32.8
+2007,6,Kentucky,32.6
+2007,7,Louisville,32.6
+2007,8,Auburn,32.5
+2007,9,Michigan,32.2
+2007,10,Oregon St.,32.2
+2007,11,Connecticut,32.1
+2007,12,Georgia,32
+2007,13,Cincinnati,31.8
+2007,14,UCLA,31.7
+2007,15,West Virginia,31.7
+2007,16,Florida,31.6
+2007,17,South Florida,31.5
+2007,18,Tennessee,31.5
+2007,19,Oregon,31.5
+2007,20,Virginia Tech,31.3
+2007,21,Maryland,31.3
+2007,22,Arizona,31.2
+2007,23,Clemson,31.2
+2007,24,Ohio St.,31.1
+2007,25,Texas A&M,31.1
+2007,26,Oklahoma,30.8
+2007,27,Arkansas,30.6
+2007,28,Arizona St.,30.6
+2007,29,Vanderbilt,30.5
+2007,30,Mississippi,30.5
+2007,31,LSU,30.4
+2007,32,Virginia,30.4
+2007,33,Rutgers,30.2
+2007,34,Illinois,30.1
+2007,35,USC,30.1
+2007,36,Michigan St.,30
+2007,37,Penn St.,30
+2007,38,Wisconsin,30
+2007,39,Alabama,29.9
+2007,40,Duke,29.8
+2007,41,Wake Forest,29.6
+2007,42,Texas Tech,29.6
+2007,43,Oklahoma St.,29.5
+2007,44,Syracuse,29.5
+2007,45,Washington,29.4
+2007,46,Mississippi St.,29.3
+2007,47,Georgia Tech,29.2
+2007,48,California,29
+2007,49,Kansas,28.8
+2007,50,Washington St.,28.8
+2007,51,Miami (FL),28.7
+2007,52,N.C. State,28.7
+2007,53,Minnesota,28.5
+2007,54,Purdue,28.2
+2007,55,Iowa St.,28.2
+2007,56,Nebraska,28.1
+2007,57,Texas,27.6
+2007,58,Colorado,27.5
+2007,59,North Carolina,27.3
+2007,60,Baylor,27.3
+2007,61,Utah,26.8
+2007,62,Notre Dame,26.8
+2007,63,Stanford,26.7
+2007,64,Indiana,26.5
+2007,65,Kansas St.,26.5
+2007,66,Northwestern,25.6
+2007,67,San Diego St.,24.8
+2007,68,Florida Atlantic,24.7
+2007,69,Iowa,24.4
+2007,70,BYU,24.2
+2007,71,TCU,23.7
+2007,72,Wyoming,23.3
+2007,73,UNLV,23.2
+2007,74,Troy,23
+2007,75,New Mexico,23
+2007,76,Army,22.8
+2007,77,Colorado St.,22.5
+2007,78,Air Force,22.5
+2007,79,LA Monroe,21.9
+2007,80,East. Michigan,21.4
+2007,81,Ball St.,21.4
+2007,82,Navy,20.7
+2007,83,Hawaii,20.5
+2007,84,LA Lafayette,20
+2007,85,Fresno St.,20
+2007,86,Cent. Michigan,20
+2007,87,Middle Tenn. St.,19.9
+2007,88,W. Michigan,19.9
+2007,89,Boise St.,19.9
+2007,90,West. Kentucky,19.5
+2007,91,Toledo,19.2
+2007,92,UAB,19.1
+2007,93,Tulsa,18.6
+2007,94,Akron,18.6
+2007,95,Florida Intl.,18.5
+2007,96,Miami (OH),18.3
+2007,97,UCF,18.2
+2007,98,Northern Illinois,18.1
+2007,99,Louisiana Tech,17.8
+2007,100,North Texas,17.7
+2007,101,East Carolina,17.6
+2007,102,Arkansas St.,17.6
+2007,103,Bowling Green,17.5
+2007,104,Kent St.,17.4
+2007,105,San Jose St.,17.3
+2007,106,Marshall,17.2
+2007,107,Nevada,17.1
+2007,108,Texas-El Paso,16.9
+2007,109,Temple,16.8
+2007,110,Buffalo,16.5
+2007,111,Ohio,16.2
+2007,112,Idaho,16.1
+2007,113,New Mexico St.,15.8
+2007,114,Southern Miss,15.7
+2007,115,SMU,15.5
+2007,116,Utah St.,15.4
+2007,117,Houston,15.2
+2007,118,Tulane,13.6
+2007,119,Rice,13.5
+2007,120,Memphis,13.3
+2008,1,Texas Tech,41.3
+2008,2,Oklahoma,39.1
+2008,3,Oklahoma St.,39.1
+2008,4,Texas,37.5
+2008,5,Missouri,35.2
+2008,6,Florida St.,35.1
+2008,7,Baylor,35
+2008,8,Kansas,34.7
+2008,9,Florida,32.6
+2008,10,Georgia Tech,32.1
+2008,11,Boston Coll.,31.9
+2008,12,Miami (FL),31.7
+2008,13,Virginia,31.6
+2008,14,Maryland,31.4
+2008,15,Clemson,31.4
+2008,16,Alabama,31.4
+2008,17,Duke,31.3
+2008,18,Oregon,31.2
+2008,19,Virginia Tech,30.6
+2008,20,Oregon St.,30.6
+2008,21,Nebraska,30.5
+2008,22,TCU,30.4
+2008,23,N.C. State,30.4
+2008,24,North Carolina,30.2
+2008,25,Ohio St.,29.9
+2008,26,Pittsburgh,29.8
+2008,27,South Carolina,29.5
+2008,28,Georgia,29.5
+2008,29,Wake Forest,29.3
+2008,30,Michigan St.,29.3
+2008,31,Penn St.,29.3
+2008,32,Connecticut,28.9
+2008,33,Colorado,28.6
+2008,34,California,28.6
+2008,35,Texas A&M,28.5
+2008,36,Auburn,28.3
+2008,37,South Florida,28.3
+2008,38,Syracuse,28.3
+2008,39,Arizona,27.9
+2008,40,Iowa,27.7
+2008,41,West Virginia,27.6
+2008,42,Stanford,27.5
+2008,43,Notre Dame,27.2
+2008,44,BYU,27.1
+2008,45,Utah,27.1
+2008,46,Illinois,27
+2008,47,Cincinnati,26.9
+2008,48,USC,26.8
+2008,49,Iowa St.,26.8
+2008,50,Michigan,26.3
+2008,51,Mississippi,26.3
+2008,52,LSU,26.1
+2008,53,Wisconsin,26.1
+2008,54,Rutgers,26.1
+2008,55,Vanderbilt,26
+2008,56,Louisville,25.8
+2008,57,Kansas St.,25.7
+2008,58,Air Force,25.4
+2008,59,Arkansas,25.4
+2008,60,Purdue,25.2
+2008,61,Indiana,24.9
+2008,62,Arizona St.,24.8
+2008,63,Northwestern,24.8
+2008,64,UCLA,24.6
+2008,65,Minnesota,24.4
+2008,66,Navy,24.2
+2008,67,Colorado St.,24
+2008,68,Nevada,23.9
+2008,69,Mississippi St.,23.9
+2008,70,Tennessee,23.8
+2008,71,Kentucky,23.5
+2008,72,Army,23.4
+2008,73,New Mexico,23.2
+2008,74,Buffalo,22.7
+2008,75,Wyoming,22.5
+2008,76,W. Michigan,22.4
+2008,77,East Carolina,22.1
+2008,78,East. Michigan,22
+2008,79,Marshall,21.9
+2008,80,Boise St.,21.7
+2008,81,San Diego St.,21.6
+2008,82,Northern Illinois,21.5
+2008,83,Washington,21.2
+2008,84,Akron,21.2
+2008,85,Cent. Michigan,21.1
+2008,86,Fresno St.,21
+2008,87,UNLV,20.7
+2008,88,Kent St.,20.4
+2008,89,Temple,20.4
+2008,90,Bowling Green,20.3
+2008,91,Houston,20.2
+2008,92,Miami (OH),20.2
+2008,93,Utah St.,20.1
+2008,94,SMU,20.1
+2008,95,Washington St.,19.9
+2008,96,Ball St.,19.8
+2008,97,Southern Miss,19.6
+2008,98,Hawaii,19.6
+2008,99,UCF,19.6
+2008,100,Texas-El Paso,19.5
+2008,101,Idaho,19.5
+2008,102,Ohio,19.3
+2008,103,Tulane,19.2
+2008,104,New Mexico St.,19
+2008,105,Louisiana Tech,18.9
+2008,106,UAB,18.7
+2008,107,Rice,18.6
+2008,108,Tulsa,18.5
+2008,109,San Jose St.,18.5
+2008,110,Toledo,18.2
+2008,111,Troy,16.9
+2008,112,Arkansas St.,15.5
+2008,113,LA Monroe,15.4
+2008,114,LA Lafayette,14.9
+2008,115,Memphis,14.8
+2008,116,Florida Atlantic,13.5
+2008,117,North Texas,12.9
+2008,118,West. Kentucky,12.3
+2008,119,Middle Tenn. St.,11.8
+2008,120,Florida Intl.,11.4
+2009,1,Alabama,40.2
+2009,2,Auburn,38.9
+2009,3,Florida,38.2
+2009,4,Mississippi St.,38.1
+2009,5,LSU,37.8
+2009,6,Arkansas,37.8
+2009,7,Mississippi,37.5
+2009,8,South Carolina,37
+2009,9,Georgia,37
+2009,10,Tennessee,34.5
+2009,11,Kentucky,34.2
+2009,12,Oklahoma,33.6
+2009,13,Clemson,33.2
+2009,14,Vanderbilt,32.9
+2009,15,Georgia Tech,32.7
+2009,16,Baylor,32.4
+2009,17,Florida St.,32.1
+2009,18,Oregon,32.1
+2009,19,Oklahoma St.,31.7
+2009,20,Arizona,31.4
+2009,21,North Carolina,31.4
+2009,22,Oregon St.,31.3
+2009,23,Miami (FL),31.3
+2009,24,Nebraska,31.3
+2009,25,Virginia,30.8
+2009,26,California,30.8
+2009,27,USC,30.8
+2009,28,Texas Tech,30.7
+2009,29,N.C. State,30.7
+2009,30,Texas A&M,30.5
+2009,31,Texas,30.5
+2009,32,Virginia Tech,30.4
+2009,33,Stanford,30.4
+2009,34,Kansas,30.2
+2009,35,Arizona St.,29.8
+2009,36,Duke,29.4
+2009,37,West Virginia,29.3
+2009,38,Wake Forest,29.3
+2009,39,Pittsburgh,29.2
+2009,40,South Florida,29.2
+2009,41,Washington,28.9
+2009,42,Washington St.,28.7
+2009,43,Maryland,28.7
+2009,44,UCLA,28.4
+2009,45,Cincinnati,28.3
+2009,46,Kansas St.,28.2
+2009,47,Boston Coll.,28.2
+2009,48,Connecticut,28.2
+2009,49,Colorado,28
+2009,50,Notre Dame,27.9
+2009,51,Iowa,27.7
+2009,52,Minnesota,27.6
+2009,53,Missouri,27.3
+2009,54,Iowa St.,26.4
+2009,55,Syracuse,26.1
+2009,56,Michigan St.,26
+2009,57,Ohio St.,26
+2009,58,Rutgers,25.8
+2009,59,Penn St.,25.6
+2009,60,Michigan,25.6
+2009,61,Illinois,25.6
+2009,62,Louisville,25.4
+2009,63,Northwestern,25.4
+2009,64,Indiana,25.3
+2009,65,Utah,25.2
+2009,66,East Carolina,24.5
+2009,67,Purdue,24.4
+2009,68,Wisconsin,24.4
+2009,69,BYU,24
+2009,70,Louisiana Tech,23.5
+2009,71,Memphis,23.5
+2009,72,UCF,23.4
+2009,73,Air Force,23.4
+2009,74,TCU,23.1
+2009,75,Houston,23.1
+2009,76,Fresno St.,22.6
+2009,77,Nevada,22.6
+2009,78,Southern Miss,22.2
+2009,79,UAB,21.5
+2009,80,Wyoming,21.1
+2009,81,Utah St.,21.1
+2009,82,Navy,20.8
+2009,83,Boise St.,20.5
+2009,84,Marshall,20.3
+2009,85,Tulane,20.2
+2009,86,Ohio,19.8
+2009,87,New Mexico St.,19.7
+2009,88,New Mexico,19.7
+2009,89,Tulsa,19.6
+2009,90,Cent. Michigan,19.6
+2009,91,UNLV,19.4
+2009,92,Idaho,19.3
+2009,93,Rice,19.2
+2009,94,Hawaii,19
+2009,95,San Diego St.,18.8
+2009,96,Miami (OH),18.6
+2009,97,Troy,18.3
+2009,98,Colorado St.,18
+2009,99,SMU,17.7
+2009,100,San Jose St.,17.7
+2009,101,Army,17.4
+2009,102,Buffalo,17.2
+2009,103,Bowling Green,17
+2009,104,Northern Illinois,16.8
+2009,105,Texas-El Paso,16.3
+2009,106,Temple,16.3
+2009,107,Ball St.,16.3
+2009,108,Kent St.,15.4
+2009,109,Middle Tenn. St.,15.3
+2009,110,Toledo,14.6
+2009,111,Akron,14.6
+2009,112,East. Michigan,14.6
+2009,113,LA Monroe,13.9
+2009,114,LA Lafayette,13.8
+2009,115,W. Michigan,13.7
+2009,116,Florida Intl.,13.5
+2009,117,Florida Atlantic,13.2
+2009,118,West. Kentucky,12.8
+2009,119,Arkansas St.,11.6
+2009,120,North Texas,10.9
+2010,1,Auburn,43.2
+2010,2,Oregon,42.5
+2010,3,Arkansas,39.8
+2010,4,Stanford,38.7
+2010,5,Virginia Tech,38.5
+2010,6,Alabama,38.1
+2010,7,Oregon St.,37.1
+2010,8,Arizona,37.1
+2010,9,LSU,37
+2010,10,Arizona St.,37
+2010,11,South Carolina,36.9
+2010,12,California,36.7
+2010,13,Florida St.,35.6
+2010,14,Washington St.,35.3
+2010,15,USC,35.2
+2010,16,Washington,35.1
+2010,17,Wisconsin,34.3
+2010,18,Ohio St.,34.2
+2010,19,UCLA,33.9
+2010,20,Texas A&M,33.7
+2010,21,Miami (FL),32.7
+2010,22,Utah,32.6
+2010,23,Mississippi St.,32.6
+2010,24,N.C. State,32.6
+2010,25,Nebraska,32.2
+2010,26,TCU,32
+2010,27,Florida,31.9
+2010,28,Oklahoma,31.6
+2010,29,Notre Dame,31.3
+2010,30,Michigan St.,31.2
+2010,31,Clemson,31.1
+2010,32,North Carolina,31
+2010,33,Michigan,31
+2010,34,Iowa,30.8
+2010,35,Mississippi,30.8
+2010,36,Boston Coll.,30.6
+2010,37,West Virginia,30.6
+2010,38,Georgia,30.2
+2010,39,Missouri,29.8
+2010,40,Oklahoma St.,29.6
+2010,41,Connecticut,29.4
+2010,42,Minnesota,29.4
+2010,43,Virginia,29.2
+2010,44,Kentucky,29
+2010,45,Maryland,28.8
+2010,46,South Florida,28.5
+2010,47,Tennessee,28.4
+2010,48,Georgia Tech,28.1
+2010,49,Baylor,28
+2010,50,Duke,28
+2010,51,Pittsburgh,27.9
+2010,52,Penn St.,27.7
+2010,53,Nevada,27.1
+2010,54,Iowa St.,27.1
+2010,55,Wake Forest,27.1
+2010,56,Boise St.,27.1
+2010,57,Kansas,27.1
+2010,58,Cincinnati,27
+2010,59,Louisville,26.8
+2010,60,Northwestern,26.5
+2010,61,Rutgers,26.4
+2010,62,Texas Tech,26.3
+2010,63,Syracuse,26.1
+2010,64,Colorado,25.7
+2010,65,Air Force,25.6
+2010,66,Tulsa,25.6
+2010,67,San Diego St.,25.4
+2010,68,Southern Miss,25.1
+2010,69,UNLV,25.1
+2010,70,Fresno St.,24.9
+2010,71,Kansas St.,24.8
+2010,72,Navy,24.6
+2010,73,Houston,24.6
+2010,74,Illinois,24.6
+2010,75,Vanderbilt,24.6
+2010,76,Texas,24.5
+2010,77,Purdue,24.5
+2010,78,BYU,24.4
+2010,79,Hawaii,23.6
+2010,80,East Carolina,23.5
+2010,81,Indiana,23.4
+2010,82,Army,22.6
+2010,83,Memphis,22
+2010,84,UCF,21.9
+2010,85,New Mexico,21.7
+2010,86,SMU,21
+2010,87,Louisiana Tech,20.7
+2010,88,Colorado St.,20.7
+2010,89,Texas-El Paso,20.6
+2010,90,Tulane,20.5
+2010,91,Utah St.,20
+2010,92,Idaho,19.5
+2010,93,Wyoming,19.1
+2010,94,San Jose St.,19
+2010,95,Cent. Michigan,19
+2010,96,New Mexico St.,18.2
+2010,97,Rice,17.9
+2010,98,Northern Illinois,17.8
+2010,99,Toledo,17.2
+2010,100,Arkansas St.,16.8
+2010,101,UAB,16.7
+2010,102,Bowling Green,16.5
+2010,103,Florida Intl.,16.5
+2010,104,Marshall,16
+2010,105,Miami (OH),16
+2010,106,Troy,15.8
+2010,107,W. Michigan,15.8
+2010,108,Temple,15.8
+2010,109,LA Lafayette,15.6
+2010,110,North Texas,15.5
+2010,111,LA Monroe,15.5
+2010,112,Florida Atlantic,15.4
+2010,113,Kent St.,15
+2010,114,Middle Tenn. St.,14.9
+2010,115,East. Michigan,14.4
+2010,116,Ohio,14.1
+2010,117,West. Kentucky,14
+2010,118,Ball St.,11.5
+2010,119,Akron,11.4
+2010,120,Buffalo,9.8
+2011,1,LSU,40.1
+2011,2,Alabama,39.4
+2011,3,Arkansas,38.5
+2011,4,Oklahoma,37.1
+2011,5,Iowa St.,35.2
+2011,6,Texas,35.1
+2011,7,Kansas,34.9
+2011,8,Auburn,34.6
+2011,9,Oklahoma St.,34.6
+2011,10,Kansas St.,34.3
+2011,11,USC,34.3
+2011,12,Texas A&M,34.2
+2011,13,Baylor,34
+2011,14,Texas Tech,33.9
+2011,15,Mississippi,33.7
+2011,16,Missouri,33.6
+2011,17,Georgia,33.6
+2011,18,Stanford,33.4
+2011,19,Oregon,33.4
+2011,20,Florida,33.3
+2011,21,Mississippi St.,32.9
+2011,22,Michigan St.,32.4
+2011,23,California,32.2
+2011,24,South Carolina,32
+2011,25,Oregon St.,31.7
+2011,26,Nebraska,31.6
+2011,27,UCLA,31.2
+2011,28,Vanderbilt,30.8
+2011,29,Tennessee,30.8
+2011,30,Penn St.,30.4
+2011,31,Washington,30.2
+2011,32,Wisconsin,30
+2011,33,Notre Dame,29.7
+2011,34,Iowa,29.7
+2011,35,Colorado,29.3
+2011,36,Washington St.,29.3
+2011,37,Clemson,29.2
+2011,38,Ohio St.,29
+2011,39,Michigan,28.5
+2011,40,Kentucky,28.5
+2011,41,Arizona St.,28.4
+2011,42,Minnesota,28.2
+2011,43,Illinois,27.8
+2011,44,Arizona,27.7
+2011,45,Boston Coll.,27.6
+2011,46,Maryland,27.5
+2011,47,Utah,26.9
+2011,48,Florida St.,26.8
+2011,49,Northwestern,26.8
+2011,50,Indiana,26.7
+2011,51,Virginia Tech,26.5
+2011,52,Georgia Tech,26.3
+2011,53,Miami (FL),26.1
+2011,54,Wake Forest,25.9
+2011,55,West Virginia,25.8
+2011,56,North Carolina,25.8
+2011,57,Duke,25.5
+2011,58,Pittsburgh,25.5
+2011,59,Louisville,25.5
+2011,60,Purdue,25.3
+2011,61,N.C. State,25.3
+2011,62,Syracuse,24.6
+2011,63,Virginia,24.6
+2011,64,Cincinnati,24.5
+2011,65,South Florida,24.4
+2011,66,Connecticut,24.4
+2011,67,TCU,23.8
+2011,68,Tulsa,23.6
+2011,69,Rutgers,23.4
+2011,70,Southern Miss,22.8
+2011,71,Houston,22.7
+2011,72,Army,22.6
+2011,73,Louisiana Tech,22.4
+2011,74,BYU,22.2
+2011,75,Idaho,22
+2011,76,Boise St.,21.6
+2011,77,Ball St.,21.4
+2011,78,Wyoming,21.3
+2011,79,Toledo,21.3
+2011,80,Navy,21
+2011,81,Fresno St.,20.9
+2011,82,W. Michigan,20.6
+2011,83,New Mexico St.,20.6
+2011,84,UCF,20.5
+2011,85,SMU,20.4
+2011,86,Nevada,20.3
+2011,87,San Jose St.,20.3
+2011,88,Northern Illinois,20.1
+2011,89,LA Lafayette,20.1
+2011,90,Bowling Green,19.8
+2011,91,West. Kentucky,19.7
+2011,92,Miami (OH),19.7
+2011,93,Utah St.,19.5
+2011,94,East Carolina,19.4
+2011,95,Marshall,19.3
+2011,96,Texas-El Paso,19.1
+2011,97,Rice,19.1
+2011,98,UNLV,18.9
+2011,99,Colorado St.,18.8
+2011,100,San Diego St.,18.7
+2011,101,Cent. Michigan,18.7
+2011,102,New Mexico,18.4
+2011,103,Ohio,18.3
+2011,104,East. Michigan,18.3
+2011,105,Air Force,17.6
+2011,106,Temple,17.5
+2011,107,Middle Tenn. St.,17.2
+2011,108,Akron,17.2
+2011,109,Hawaii,17.1
+2011,110,LA Monroe,17
+2011,111,Tulane,17
+2011,112,Kent St.,16.7
+2011,113,Florida Intl.,16.4
+2011,114,Troy,16.4
+2011,115,North Texas,16.2
+2011,116,UAB,16
+2011,117,Buffalo,15.7
+2011,118,Memphis,15.6
+2011,119,Florida Atlantic,15
+2011,120,Arkansas St.,15
