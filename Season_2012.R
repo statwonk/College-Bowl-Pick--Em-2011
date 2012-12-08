@@ -36,6 +36,7 @@ rs <- read.csv("C:/R_stuff/gentrys_beetus_folder/college_bowl_pickem/College-Bow
 # Import strength of schedule, comes from (before bowls): http://www.teamrankings.com/college-football/ranking/strength-of-schedule-by-team
 sos <- read.csv("C:/R_stuff/gentrys_beetus_folder/college_bowl_pickem/College-Bowl-Pick--Em-2011/sos.csv")
 sos$unique_id <- paste(sos$year, sos$team, sep = "_")
+  sos <- sos[ , c("unique_id", "sos_rank", "sos")]
 
 rs <- merge(rs, sos, by ="unique_id")
 
@@ -74,10 +75,14 @@ bo_indicator <- as.data.frame(bo_indicator)
 bo_indicator$win_id <- paste(bo_indicator$year, bo_indicator$winner, sep = "_")
 bo_indicator$lose_id <- paste(bo_indicator$year, bo_indicator$loser, sep = "_")
 
-rs$win_id <- paste(rs$year.x, rs$team.x, sep ="_")
-rs$lose_id <- paste(rs$year.x, rs$team.x, sep ="_")
+# Merging bowl outcomes and regular season stats
+rs$win_id <- paste(rs$year, rs$team, sep ="_")
 
 bo_merge <- merge(bo_indicator, rs, by = "win_id")
+
+rs$lose_id <- paste(rs$year, rs$team, sep ="_")
+  rs$win_id <- NULL
+
 bo_merge <- merge(bo_merge, rs, by = "lose_id")
 
 all_data <- bo_merge
@@ -89,15 +94,12 @@ all_data_for_reg$winner <- all_data$winner
 all_data_for_reg$loser <- all_data$loser
 all_data_for_reg$zscore <- all_data$zscore
 all_data_for_reg <- as.data.frame(cbind(all_data_for_reg, 
-                          all_data[ , 10:38],
-                          all_data[ , 47:73]))
-all_data_for_reg$sos.x <- all_data$sos.x
-all_data_for_reg$sos.y <- all_data$sos.y
-all_data_for_reg$year <- droplevels(all_data_for_reg$year)
+                          all_data[ , 11:38],
+                          all_data[ , 43:70]))
 
 ## Creating z vars
 
-zdata <- all_data_for_reg[ c(5:31, 61)] - all_data_for_reg[ , c(34:60, 62)]
+zdata <- all_data_for_reg[ c(5:32)] - all_data_for_reg[ , c(33:60)]
 names(zdata) <- c("v1", "v2", "v3", "v4", "v5", "v6", "v7", "v8",
                   "v9", "v10", "v11", "v12", "v13", "v14", "v15",
                   "v16", "v17", "v18", "v19", "v20", "v21", "v22",
@@ -108,8 +110,11 @@ all_data_for_reg$zscore <- as.numeric(levels(all_data_for_reg$zscore)[all_data_f
 
 ## Renameing column names
 colnames(all_data_for_reg) <- rbind(as.matrix(colnames(all_data_for_reg[1:4])), 
-      as.matrix(colnames(rs[4:30])), 
-      as.matrix(colnames(rs[34])))
+      as.matrix(colnames(rs[5:32])))
+
+
+
+
 
 training <- all_data_for_reg[all_data_for_reg$year != 2009 &
                              all_data_for_reg$year != 2010 &
